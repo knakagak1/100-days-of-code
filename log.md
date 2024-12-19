@@ -9,10 +9,20 @@
 * Start front-end web development exploration
   * Write a simple HTML/CSS
   * Write a simple interacion with Javascript/DOM
-  * Use the ngnix docker image to test the web page locally 
+  * Use the nginx docker image to test the web page locally 
 * Start writing a docker image for front-end web development
 
 **Thoughts:** Docker is nice, but I struggled to find a way to directly access github from inside of a Docker container.
+
+**Link to work:** [Front-end web App](Private repo)
+
+### Day 1: Dec 19, 2024
+
+**Today's Progress**:
+- Use Docker compose to streamline the process for dev/test/run
+- Set up linters for automated building, testing and CI
+
+**Thoughts:** Docker compose is useful. I think I'll eventually make public the repo I'm working on as a web app development template.
 
 **Link to work:** [Front-end web App](Private repo)
 
