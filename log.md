@@ -26,3 +26,15 @@
 
 **Link to work:** [Front-end web App](Private repo)
 
+### Day 2: Dec 20, 2024
+
+**Today's Progress**:
+- Turned Javascript into TypeScript.
+- Set up tsc/webpack for easy deployment.
+- Set up prettier for automatic prettification.
+- Introduced vitest for TDD of front-end.
+
+**Thoughts:** Trying to integrate tools manually to learn the tech stack. Takes a long time, but nice to get some knowledge.
+
+**Link to work:** [Front-end web App](Private repo)
+
