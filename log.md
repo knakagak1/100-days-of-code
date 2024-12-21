@@ -38,3 +38,12 @@
 
 **Link to work:** [Front-end web App](Private repo)
 
+### Day 3: Dec 21, 2024
+
+**Today's Progress**:
+- Searched and learned the currently popular web development frameworks and their pros and cons.
+
+**Thoughts:** There are so many web front-end frameworks. I do not want to lock myself into a particular eco-system or vendor, so I'll stay flexible and open.
+
+**Link to work:** [Front-end web App](Private repo)
+
