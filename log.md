@@ -47,3 +47,14 @@
 
 **Link to work:** [Front-end web App](Private repo)
 
+### Day 4: Dec 22, 2024
+
+**Today's Progress**:
+- Created another boilerplate with vite,React,mui
+- Wrote a todo app with React
+- Played with mui
+
+**Thoughts:** create-vite can set up a boiler plate much quicker than combining tools myself. There are so many frameworks etc in the world of front-end dev.
+
+**Link to work:** [Front-end web App](Private repo)
+
