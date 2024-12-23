@@ -58,3 +58,14 @@
 
 **Link to work:** [Front-end web App](Private repo)
 
+### Day 5: Dec 23, 2024
+
+**Today's Progress**:
+- Continued the boilerplate for integrating vitest, testing-library
+- Single place (in-file) testing
+- Developed a simple photoframe app
+
+**Thoughts:** Finally, the boilderplate for front-end apps is in a good shape. Nice to develop my own first front-end app.
+
+**Link to work:** [Front-end web App](Private repo)
+
