@@ -69,3 +69,13 @@
 
 **Link to work:** [Front-end web App](Private repo)
 
+### Day 6: Dec 24, 2024
+
+**Today's Progress**:
+- Made the photoframe app pseudo-full-screen
+- Integrated thirdparty license generation mechanism
+
+**Thoughts:** Strugging to find a auto doc generation tool from JSDoc.
+
+**Link to work:** [Front-end web App](Private repo)
+
