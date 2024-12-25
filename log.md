@@ -79,3 +79,13 @@
 
 **Link to work:** [Front-end web App](Private repo)
 
+### Day 7: Dec 25, 2024
+
+**Today's Progress**:
+- Refactored the photoframe app
+- Integrated the documentation generation tool
+
+**Thoughts:** There is not simple or lightweight end-to-end doc generation tool. I might write a json to HTML converter myself.
+
+**Link to work:** [Front-end web App](Private repo)
+
