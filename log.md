@@ -89,3 +89,10 @@
 
 **Link to work:** [Front-end web App](Private repo)
 
+### Day 8: Jan 2, 2025
+
+**Today's Progress**:
+- Made a simple back-end app using Python django
+
+**Thoughts:** Learned only the very basics. Frankly, I'm more intereted in graphics or hands on work rather than simply creating a small sample app.
+
