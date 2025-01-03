@@ -96,3 +96,10 @@
 
 **Thoughts:** Learned only the very basics. Frankly, I'm more intereted in graphics or hands on work rather than simply creating a small sample app.
 
+### Day 9: Jan 3, 2025
+
+**Today's Progress**:
+- Tried out React Flow and learned its basics
+
+**Thoughts:** React Flow seems pretty neet. Let's see how extensible it is.
+
