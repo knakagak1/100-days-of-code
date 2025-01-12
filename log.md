@@ -103,3 +103,10 @@
 
 **Thoughts:** React Flow seems pretty neet. Let's see how extensible it is.
 
+### Day 10: Jan 12, 2025
+
+**Today's Progress**:
+- Started a new app, Life Calendar, inspired by Tim Urban's TED Talk. 
+
+**Thoughts:** Hopes to expand on this more.
+
