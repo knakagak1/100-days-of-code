@@ -110,3 +110,10 @@
 
 **Thoughts:** Hopes to expand on this more.
 
+### Day 11: Jan 18, 2025
+
+**Today's Progress**:
+- Refactoring Life Calendar so that the age input transitions to the calendar grid.
+
+**Thoughts:** Hopes to expand on this more.
+
