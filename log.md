@@ -117,3 +117,11 @@
 
 **Thoughts:** Hopes to expand on this more.
 
+### Day 12: Jan 19, 2025
+
+**Today's Progress**:
+- Refactored the code for more consistent grid drawing and correct display of weeks spent
+- Added the week popup system
+
+**Thoughts:** Finally grasping TSX,React and MUI
+
